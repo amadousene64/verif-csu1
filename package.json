@@ -1,0 +1,12 @@
+{
+  "name": "verif-csu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vérification des bénéficiaires CSU par code d'immatriculation",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
